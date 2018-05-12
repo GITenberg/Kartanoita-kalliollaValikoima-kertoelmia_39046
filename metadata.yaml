@@ -1,0 +1,37 @@
+_repo: Kartanoita-kalliollaValikoima-kertoelmia_39046
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Suomalainen, Hilma
+    gutenberg_agent_id: '39811'
+    url: http://www.gutenberg.org/2009/agents/39811
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Frommel, Emil
+    birthdate: 1828
+    deathdate: 1896
+    gutenberg_agent_id: '24965'
+    url: http://www.gutenberg.org/2009/agents/24965
+    wikipedia: http://de.wikipedia.org/wiki/Emil_Frommel
+description: ''
+gutenberg_issued: '2012-03-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39046'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PT'
+- !lcsh 'German fiction -- Translations into Finnish'
+tableOfContents: 'Lukijalle -- Rakkautta rakkaudesta -- Kaksi musikaalista jutelmaa:
+  Juhlallinen sielumessu siitä tuli sittenkin. Amati-viulu -- Kylädiakonissa -- Kaksi
+  sormusta, jopa kolmaskin -- Kuinka juristista tuli teologi -- Syvyydestä -- Sor
+  Federigo -- Fremersbergin luostarin risti.'
+title: 'Kartanoita kalliolla: Valikoima kertoelmia'
+url: http://www.gutenberg.org/ebooks/39046
