@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/24965
     wikipedia: http://de.wikipedia.org/wiki/Emil_Frommel
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39046#Kartanoita-kalliollaValikoima-kertoelmia
 gutenberg_issued: '2012-03-04'
 gutenberg_type: Text
 identifiers:
